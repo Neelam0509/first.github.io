@@ -1,0 +1,69 @@
+{
+  "products":[
+  {
+  "id":1,
+  "name":"iPhone",
+  "image":"/assets/iphone.jpeg",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":120000.896,
+  "code":"M-111",
+ " rating":5,
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+},
+{
+  "id":2,
+  "name":"Samsung",
+  "image":"/assets/samsung.webp",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":10000,
+  "code":"M-111",
+ " rating":3,
+
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+},
+{
+  "id":3,
+  "name":"Tv",
+  "image":"/assets/TV.png",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":780000,
+  "code":"M-111",
+ " rating":4.5,
+
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+},
+{
+  "id":4,
+  "name":"Fridge",
+  "image":"/assets/fridge.webp",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":28000,
+  "code":"M-111",
+ " rating":3.4,
+
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+},
+{
+  "id":5,
+  "name":"oppo",
+  "image":"/assets/vivo.png",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":7000,
+  "code":"M-111",
+ " rating":2,
+
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+},
+{
+  "id":6,
+  "name":"washingmachine",
+  "image":"/assets/LGwashingmachine.jpg",
+  "date":"Sun Apr 23 2023 16:47:54 GMT+0530 (India Standard Time)",
+ " price":90000,
+  "code":"M-111",
+ " rating":3.7,
+
+"  description":"  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos et est suscipit, modi nam delectus, debitis rerum officiis dolore reiciendis fuga necessitatibus dolorum, consequatur ut ex voluptatibus numquam harum natus?"
+}
+]
+}
